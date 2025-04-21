@@ -16,5 +16,6 @@ console.log(`Quem sempre tentava acabar com esse casal era a ${nm}`);
 // Não podem conter espaços ou traços
 // Variáveis são Case-sensitive... Letras maiúsculas e minúsculas fazem diferença
 // Não podemos redeclarar variáveis com let
+// Não utilize VAR, utilize let
 
 // Variáveis precisam ter nomes significativos ( Para você entender melhor o teu código )
