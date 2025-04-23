@@ -4,3 +4,6 @@
 // constantes são Case-sensitive... Letras maiúsculas e minúsculas fazem diferença
 // Não podemos modificar o valor de uma constante
 // Não utilize VAR, utilize const
+
+const nome = 'Kaio';
+console.log(nome);
