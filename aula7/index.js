@@ -5,9 +5,9 @@
 // Não podemos modificar o valor de uma constante
 // Não utilize VAR, utilize const
 
+
 const nome = 'Kaio';
 console.log(nome);
-
 
 const primeiroNumero = 5;
 const segundoNumero = 10;
