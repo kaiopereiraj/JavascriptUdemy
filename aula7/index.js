@@ -5,12 +5,10 @@
 // Não podemos modificar o valor de uma constante
 // Não utilize VAR, utilize const
 
-
 const nome = 'Kaio';
 const sobrenome = 'Pereira';
 console.log(nome);
 console.log(sobrenome);
-
 
 const primeiroNumero = 5;
 const segundoNumero = 10;
