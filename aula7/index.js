@@ -7,6 +7,7 @@
 
 
 const nome = 'Kaio';
+const sobrenome = 'Pereira'
 console.log(nome);
 
 const primeiroNumero = 5;
