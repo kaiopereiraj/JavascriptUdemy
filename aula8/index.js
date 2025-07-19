@@ -7,9 +7,9 @@
 
 const nome = 'Kaio';
 const sobrenome = 'Jesus';
-const idade = 22;
-const peso = 78;
 const alturaEmM = 1.83;
+let idade = 22;
+let peso = 78;
 let imc;
 let anoNascimento;
 
