@@ -2,7 +2,6 @@
     Kaio  Jesus tem 22 anos, pesa 78 kg
     tem 1.83 de altura e seu IMC é de 2..
     Kaio Pereira nasceu em 2003
-
 */
 
 const nome = 'Kaio';
