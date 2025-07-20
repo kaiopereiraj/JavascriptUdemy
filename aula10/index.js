@@ -1,3 +1,6 @@
+// Tipos de dados primitivos
+//  String, Number, Undefined, Null, Boolean and Symbol
+
 const nome = 'Kaio'; //string
 const nome1 = `Kaio`; //string
 const nome2 = "Kaio" //string
@@ -11,3 +14,5 @@ const sobrenomeAluno = null; //nulo -> não aponta para local nenhum na memória
 
 const aprovado = true; // booelean = true or false.
 
+const a = 2;
+const b = a;
