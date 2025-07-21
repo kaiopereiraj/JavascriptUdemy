@@ -16,9 +16,7 @@
 
 */
 
-let contador = 1;
-contador += 3;
-console.log(contador)
+
 
 
 
