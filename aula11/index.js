@@ -5,9 +5,18 @@
      /  Divisão
      *  Multiplicação
 
+     ** Potenciação
+     %  Resto da divisão
+
+     Ordem de precedencia 
+     () 
+     **
+     * / %
+     + -
+
 */
 
-const num1 = 5;
-const num2 = 10;
-console.log(num1 + num2);
+const num1 = 10;
+const num2 = 3;
+console.log(num1 % num2);
 
