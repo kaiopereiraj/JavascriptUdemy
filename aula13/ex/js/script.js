@@ -1,0 +1,1 @@
+const nome = window.prompt('Digite o seu nome');
