@@ -16,5 +16,4 @@ document.body.innerHTML += `As palavras do seu nome são: <strong> ${nome.split(
 
 document.body.innerHTML += `Seu nome em letras maiúsculas: <strong> ${nome.toUpperCase()} </strong>  <br>`;,
 
-
 document.body.innerHTML += `Seu nome em minúsculas: <strong> ${nome.toLowerCase()} </strong> <br>`;
