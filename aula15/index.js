@@ -1,4 +1,4 @@
-let num1 = 81;
+let num1 = 9.48618;
 
 //let num2 = Math.floor(num1); Irá arrendondar para 9
 //let num2 = Math.ceil(num1); Irá arrendondar para 10
