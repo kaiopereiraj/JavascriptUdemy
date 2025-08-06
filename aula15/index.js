@@ -9,4 +9,4 @@ let num1 = 9.48618;
 
 //const aleatorio = Math.round(Math.random() * (10 - 5) + 5);
 
-console.log();
+console.log(num1);
