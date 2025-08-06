@@ -1,7 +1,5 @@
 let num1 = 81;
 
-console.log(num1 ** 0.5);
-
 //let num2 = Math.floor(num1); Irá arrendondar para 9
 //let num2 = Math.ceil(num1); Irá arrendondar para 10
 //let num2 = Math.round(num1);
