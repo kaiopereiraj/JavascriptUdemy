@@ -7,6 +7,7 @@ let num1 = 9.48618;
 //console.log(Math.max(1, 2, 3, 48, -7, 155)); Irá encontrar o maior número dessa sequencia
 //console.log(Math.min(1, 2, 3, 48, -7, 155)); Irá encontrar o menor número dessa sequencia
 
+
 //const aleatorio = Math.round(Math.random() * (10 - 5) + 5);
 
 
